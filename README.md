@@ -2,7 +2,9 @@
 
 This web application is one of a series built in satisfaction of course requirements for General Assembly, Software Engineering Immersion course, batch #19, Singapore.  
 
-In this project, I built an online movie sales site with Express Node.js, React.js, HTML5, bootstrap CSS, and Postgres database.  This app makes API calls to a movie database site in USA to retrieve movie posters and details.  I am able to demonstrate my mastery in making asynchronous API calls to query, save to database, analyze and display the following information:
+In this project, I built an online movie sales site with Express Node.js, React.js, HTML5, bootstrap CSS, and Postgres database.  You may enjoy the application at this address: https://movieoasis.herokuapp.com
+
+This app makes API calls to a movie database site in USA to retrieve movie posters and details.  I am able to demonstrate my mastery in making asynchronous API calls to query, save to database, analyze and display the following information:
 
 1.  Movies by genres;
 2.  Ranking movies by sales;
