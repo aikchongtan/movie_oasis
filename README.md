@@ -6,8 +6,8 @@ In this project, I built an online movie sales site with Express Node.js, React.
 
 1.  Movies by genres;
 2.  Ranking movies by sales;
-3.  Saved movie lists by registered users; and
-4   A recommender system to recommend next-movies to watch for registered users.
+3.  Saved movie lists by registered users;
+4.  A recommender system to recommend next-movies to watch for registered users.
 
 An associative rule recommender model is implemented to overcome the cold-start issue faced by this newly set up site.  The model is created using Python programming language since I am unfamiliar with Javascript machine learning ecosystems.
 
@@ -20,4 +20,6 @@ In future iteration, I can consider adding the following features:
 3.  More advanced recommender algorithms i.e., collaborative item filtering, K-nearest neighbor etc, to give more personalized suggestions;
 4.  A conversational chatbot to respond to registered users' queries etc ...
 
-If I wish to revamp the site in future to handle more visitors and enhance their UX, I may consider implementing with Django + React.js. to serve bigger scale traffic.
+If I wish to revamp the site in future to handle more visitors and enhance their UX, I may consider implementing it with Django + React.js. to serve bigger scale traffic.
+
+Any suggestion to enhance the site is welcome :) Do let me know.
