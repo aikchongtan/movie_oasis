@@ -6,7 +6,7 @@
     const cookieParser = require('cookie-parser');
     const request = require('request')
 
-/////////////////////////////////////////////// Copy from ebook /////////////////////////
+
 
 // inside of db.js
 
