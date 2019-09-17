@@ -1,5 +1,7 @@
 # Movie Oasis
 
+![Alt text](https://github.com/aikchongtan/movie_oasis/blob/master/Wireframe_for_%20movieOasis.jpg?raw=true "WireFrame for Movie Oasis")
+
 This web application is one of a series built in satisfaction of course requirements for General Assembly, Software Engineering Immersion course, batch #19, Singapore.  
 
 In this project, I built an online movie sales site with Express Node.js, React.js, HTML5, bootstrap CSS, and Postgres database.  You may enjoy the application live at this address: https://movieoasis.herokuapp.com
