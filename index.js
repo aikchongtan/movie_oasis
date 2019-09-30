@@ -244,9 +244,9 @@ if( process.env.DATABASE_URL ){
                     let values = ['addToList', user_id]
         pool.query(queryText, values, (err, res) => {
             if (err) {
-                //console.log("query error - getMovieList", err.message);
+                console.log("query error - getMovieList", err.message);
             } else {
-				console.log(res.rows[i].content_id)
+				// console.log(res.rows[i].content_id)
                 for (let i = 0; i < res.rows.length; i++) {
                     make_API_call('https://api.themoviedb.org/3/find/tt' + res.rows[i].content_id + '?external_source=imdb_id&api_key=' + APIKey)
                         .then(result => {
