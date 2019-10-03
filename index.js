@@ -51,8 +51,8 @@ if( process.env.DATABASE_URL ){
 
     // // Initialise postgres client
     // const configs = {
-    //     user: 'ghostshiphost',
-    //     password: 'Laser123',
+    //     user: '',
+    //     password: '',
     //     host: '127.0.0.1',
     //     database: 'storedb',
     //     port: 5432,
