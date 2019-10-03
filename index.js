@@ -36,8 +36,8 @@ if( process.env.DATABASE_URL ){
 
   //otherwise we are on the local network
   var configs = {
-    user: 'ghostshiphost',
-    password: 'Laser123',
+    user: '',
+    password: '',
     host: '127.0.0.1',
     database: 'storedb',
     port: 5432,
